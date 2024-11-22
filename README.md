@@ -9,7 +9,6 @@ This project is a Python-based system to manage and track student grades using O
 - The program will calculate the class average and individual student performance.
 
 ## Files:
-- `student_performance_tracker.ipynb`: Jupyter/Colab notebook for the project.
 - `student_performance_tracker.py`: Python script for the project.
 
 ## Requirements:
@@ -17,5 +16,5 @@ This project is a Python-based system to manage and track student grades using O
 - If using Jupyter or Colab, simply run the cells in sequence.
 
 ## Installation:
-1. Clone the repository using `git clone https://github.com/your_username/Student_Performance_Tracker.git`
+1. Clone the repository using `git clone https://github.com/BaseerAhmedTahir/Student_Performance_Tracker.git`
 2. Open the notebook in Jupyter or run the Python script directly.
